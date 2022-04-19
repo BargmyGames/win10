@@ -1,0 +1,28 @@
+﻿{
+	"name": "Windows 10",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"HTML_iFrame",
+		"Keyboard",
+		"Mouse",
+		"NinePatch",
+		"Sprite",
+		"TextBox",
+		"TiledBg",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"DragnDrop",
+		"Pin"
+	]
+}
